@@ -78,9 +78,16 @@ Here’s a glimpse of the To-Do App interface:
 🔗 **[View Source Code on GitHub](https://github.com/kal1kidan/ToDoApp)**
 
 ---
+## 🌐 Live Demo
+
+👉 **[Live Demo – Try It Here!](https://mytodo-we.netlify.app/)**
+
+---
+
 
 ## 🎯 Purpose
 
 This project demonstrates how **JavaScript**, combined with **HTML** and **CSS**, can create a fully functional, data-driven web application without external frameworks. It’s an essential step in understanding Local Storage, dynamic DOM updates, and event handling — key foundations for advanced frontend development.
 
 ---
+
